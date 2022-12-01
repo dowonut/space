@@ -1,2 +1,2 @@
 compile:
-  gcc main.c
+	gcc main.c
